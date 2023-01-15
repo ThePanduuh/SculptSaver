@@ -1,5 +1,4 @@
 # SculptSaver
-An artisan keycap sculpt box to protect your clay sculpts from pets, kids, etc.
 
 ![sculptsaveranimation](https://user-images.githubusercontent.com/6496688/212521969-13ba22a6-4ca5-4807-a16c-bccbe4180238.gif)
 
